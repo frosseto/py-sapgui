@@ -1,0 +1,13 @@
+[System]
+Name = 
+Client = 
+Description=
+[User]
+Language = 
+[Function]
+Command = SMEN
+Type=Transaction
+[Configuration]
+Workplace=true
+[Options]
+Reuse = 0
